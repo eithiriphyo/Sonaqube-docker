@@ -1,1 +1,0 @@
-This is to verify code from jenkins to sonarqube flow
